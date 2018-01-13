@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "베이스캠프 1일차"
+title:  "베이스캠프 1주차"
 date:   2017-01-12
-desc: "베이스캠프 1일차c"
+desc: "베이스캠프 1주차"
 keywords: "nhnent,Jekyll,blog,회사,신입"
 categories: [베이스캠프]
 tags: [베이스켐프]
